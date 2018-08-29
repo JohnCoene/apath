@@ -1,0 +1,12 @@
+Package: apath
+Title: Along Path Component for 'aframer'
+Version: 0.0.1
+Authors@R: person("John", "Coene", email = "jcoenep@gmail.com", role = c("aut", "cre"))
+Description: Along path component for 'aframer'.
+Depends: R (>= 3.4.2)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: htmltools, aframer, acurve
+Remotes: JohnCoene/aframer, JohnCoene/acurve
+RoxygenNote: 6.1.0
